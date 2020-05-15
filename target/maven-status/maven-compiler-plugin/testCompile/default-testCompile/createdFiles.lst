@@ -1,0 +1,13 @@
+com\pages\OrangeHrmLogin.class
+com\testcases\orangetest.class
+com\testcases\walmarttest.class
+com\pages\FacebookLogin.class
+com\testcases\Registertestcase.class
+Dbconnection\DBconnector.class
+com\testcases\Logintestcase.class
+com\testcases\Excelread.class
+com\testcases\walmartstoreTest.class
+com\pages\FacebookRegister.class
+com\pages\WalmartStore.class
+com\testcases\ExcelreadfromspecificrowandColumn.class
+com\pages\WalmartPage.class
